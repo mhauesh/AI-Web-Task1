@@ -2,3 +2,6 @@ streamlit
 country_list
 geopy
 openai
+plotly
+pandas
+numpy
